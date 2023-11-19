@@ -1,4 +1,4 @@
-module github.com/pasha1coil/proto
+module github.com/pasha1coil/protos
 
 go 1.20
 
